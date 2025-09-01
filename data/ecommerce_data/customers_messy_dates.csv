@@ -1,0 +1,101 @@
+customer_id,name,email,signup_date,gender
+1,Daniel White,lindseylance@gmail.com,2023-04-01,M
+2,Caitlin Nash,jamescunningham@green.com,2024-09-03,F
+3,Cindy George,brandon70@gmail.com,Dec 15 2022,m
+4,Jessica Williams,janet52@yahoo.com,07/10/2024,male
+5,Andrea Brown,rochathomas@yahoo.com,25/06/2024,m
+6,Shelly Nelson,jasmin08@yahoo.com,,M
+7,Gregory Cabrera II,cindybird@solis-pruitt.com,,f
+8,Brittany Cook,scottmitchell@vasquez.biz,2024-03-27,m
+9,Kimberly Esparza,daniel98@yahoo.com,04/07/2023,unknown
+10,Daniel Casey,udavies@smith.com,bad-date,M
+11,Ebony Morgan,joseph61@jones-robinson.com,19/08/2024,Female
+12,Katherine Johnson,ronald98@gmail.com,bad-date,female
+13,Brady Meyer,tiffany10@gmail.com,2023-08-27,FEMALE
+14,Thomas Duffy,robert73@patterson.org,30/07/2023,M
+15,Larry Campbell,mcgrathkelsey@friedman.biz,Dec 12 2023,unknown
+16,Julie Conner,simsrobert@ramos.biz,"August 21, 2022",m
+17,Rachel Perez,amy89@hotmail.com,2025-07-11,
+18,Marcus Ramirez,plee@gmail.com,"August 21, 2024",unknown
+19,Maria Ware,joshua72@hotmail.com,bad-date,Female
+20,Aaron Vargas,ijones@yahoo.com,,
+21,Patricia Hodges,marcus07@gomez.com,2025-03-24,m
+22,Karen Reed,nathan21@wiggins-powers.com,01/13/2024,FEMALE
+23,Natasha Bond,teresa76@yahoo.com,"September 13, 2022",m
+24,Bryan Hernandez,michelle44@ramirez.com,2023-02-07,f
+25,Heather Miller,jameswest@rojas.com,23/06/2024,
+26,Joel Melton,pwhite@hotmail.com,"August 31, 2024",f
+27,Kimberly Harvey,kylejones@yahoo.com,bad-date,m
+28,Tyler Willis,gloriabennett@campbell.net,"May 25, 2023",f
+29,Eric Jackson,silvakathryn@morales.com,"September 18, 2023",male
+30,Kathy Espinoza,bradley00@yahoo.com,,F
+31,Edward Fischer,campbelldennis@hotmail.com,2023-04-28,m
+32,Theresa Crane,patricia85@dougherty.com,30/03/2023,
+33,Brian Zimmerman,harperdevin@gmail.com,10/03/2023,FEMALE
+34,Thomas Li,jennifer49@rodgers-black.biz,09/04/2024,unknown
+35,Dana Lopez,nathan57@yahoo.com,2023-07-24,F
+36,Tammy Duncan,nicholas67@yahoo.com,08/10/2024,male
+37,Alicia Thomas,williamsrodney@robles-valdez.biz,May 18 2024,unknown
+38,Kathryn Meyers,kevin55@mcmahon-harrison.com,"April 25, 2025",Male
+39,Karen Morris,uday@ortiz-smith.org,,
+40,Jennifer Morris,albert90@hotmail.com,"May 08, 2025",MALE
+41,Rebecca Taylor,nancy88@singleton.net,09/12/2024,
+42,Micheal Taylor,gutierrezelizabeth@waller-johnson.com,Apr 05 2023,m
+43,Donald Owens,millerjames@gray-silva.com,01/01/2023,f
+44,Dawn Smith,ramirezamanda@yahoo.com,2025-07-24,M
+45,Michael Jenkins,donald37@hotmail.com,2023-12-28,M
+46,Jason Weeks,williamthomas@yahoo.com,Jul 27 2023,Male
+47,Christian Goodman,imiller@yahoo.com,bad-date,M
+48,Jasmine Shields,petersonalison@yahoo.com,bad-date,Male
+49,Kimberly Matthews,danielleolson@yahoo.com,,f
+50,Darin Henson,vjones@gmail.com,2024-04-15,unknown
+51,Joshua Gilmore,erica05@fowler.com,Jan 09 2025,f
+52,Eugene Warren,tiffany57@hotmail.com,18/07/2023,MALE
+53,Jonathan Reed,tina76@gmail.com,Nov 07 2023,MALE
+54,Miss Michelle Reyes,scott96@yahoo.com,02/03/2024,MALE
+55,Carrie Johnson,natasha91@yahoo.com,04/30/2023,m
+56,Stacy Schneider,bullockronald@hotmail.com,09/25/2022,f
+57,Emily Caldwell,joshuapage@yahoo.com,2024-01-31,m
+58,Denise Hunter,eriknovak@yahoo.com,30/10/2022,
+59,Vicki Brady,ashley78@yahoo.com,06/06/2024,M
+60,Gavin Reeves,tina91@yahoo.com,10/07/2024,MALE
+61,Lindsay Bauer,hford@yahoo.com,01/10/2023,MALE
+62,Stacy Wright,castrogregory@cooper.com,"December 14, 2023",f
+63,Jorge Glenn,danakane@hotmail.com,,MALE
+64,Tamara Ross,kari03@burns.com,"January 10, 2023",unknown
+65,Haley Reed,dthomas@jacobs-powell.org,,m
+66,Joseph Hernandez,richard63@knight.com,10/03/2024,MALE
+67,Nathan Murphy,ggray@smith.net,"July 10, 2024",male
+68,Troy Schultz,nbriggs@rivera.com,2022-08-08,f
+69,Ronald Wagner,lgutierrez@williams-wilson.com,,M
+70,Christopher Lowery,hancockmichelle@yahoo.com,"April 23, 2025",male
+71,Johnathan Young,scottkirk@hotmail.com,bad-date,f
+72,Stacey Park,cynthiajohnston@hotmail.com,Feb 07 2025,
+73,John Irwin,james24@hotmail.com,24/03/2023,Male
+74,Jason Wong,romanelizabeth@ross.com,06/04/2025,FEMALE
+75,Sabrina Davis,cbuck@hotmail.com,Oct 01 2024,
+76,John Brooks,karen11@carter.com,"August 16, 2024",MALE
+77,Julie Gomez,srodriguez@gmail.com,Jan 11 2024,M
+78,Lisa Wood,hannamichael@robinson-hill.com,,MALE
+79,Christy Lawson,ericamyers@yahoo.com,May 10 2023,female
+80,Matthew Harper,jacob01@hotmail.com,Feb 18 2023,FEMALE
+81,Robert Harris,matthewrich@yahoo.com,"April 17, 2023",M
+82,Lisa Tucker,melissa49@gallegos.com,Dec 11 2024,FEMALE
+83,Brian Mejia,tylermorris@fowler.com,Nov 21 2024,Male
+84,Madison Henderson,pbaker@yahoo.com,Mar 25 2025,female
+85,Sara Cook,ygallagher@hotmail.com,2023-05-17,f
+86,Nathaniel Kelley,nflynn@ramirez.com,,F
+87,Brian Wright,cdeleon@gmail.com,Jun 01 2024,MALE
+88,Charles Bowen,wisecourtney@hebert.com,"August 01, 2024",M
+89,Gina Simmons,seandelgado@gmail.com,12/02/2023,male
+90,Michael Frazier,amunoz@patel-johnson.com,bad-date,
+91,Jennifer Walters,oliversabrina@yahoo.com,bad-date,
+92,Heather Mcdonald,matthewselaine@gmail.com,bad-date,FEMALE
+93,Bradley Macias,brendagomez@yahoo.com,2025-05-11,Male
+94,Heidi Thomas,sstark@perez.com,10/01/2024,female
+95,Sarah Roberson,qmurphy@parker.com,bad-date,Female
+96,Lisa Pitts,cgreen@gmail.com,21/08/2023,MALE
+97,Randy Harrington,qroberts@davidson-weber.com,"January 07, 2024",MALE
+98,Carrie Davis,xparker@roberts-wilkerson.net,2025-01-18,FEMALE
+99,Amanda Fowler,icole@dalton-warren.com,bad-date,m
+100,Ashley Edwards,melissaboyd@ware.biz,,MALE

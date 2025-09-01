@@ -1,0 +1,101 @@
+customer_id,name,email,signup_date,gender
+1,Michele Moses,perezmichelle@riggs.com,2022-01-01,female
+2,Todd Stewart,acevedobrian@graham.com,2022-01-02,M
+3,Traci Jordan,jacquelinebrooks@morales.biz,2022-01-03,f
+4,Mrs. Brittany Simmons,shannontorres@walsh.biz,2022-01-04,
+5,Mariah Foster,woodpaula@yahoo.com,2022-01-05,f
+6,Joseph Curry,charles49@gmail.com,2022-01-06,Female
+7,Nicholas Zamora,rebecca78@lawson-davis.org,2022-01-07,FEMALE
+8,David Hernandez,lirwin@hull.com,2022-01-08,f
+9,Cynthia Miles,reynoldssherri@gmail.com,2022-01-09,female
+10,Zachary Johnson,riveramonica@yahoo.com,2022-01-10,m
+11,Melanie Lynch,harperdarren@hotmail.com,2022-01-11,male
+12,Veronica Clark,kevinochoa@hotmail.com,2022-01-12,Female
+13,Lisa Johnston,franksimmons@gmail.com,2022-01-13,Male
+14,Michael Grant,santiagomary@curtis-reed.com,2022-01-14,MALE
+15,Heidi Cardenas,jaclynsanders@gmail.com,2022-01-15,MALE
+16,Christina Doyle DVM,wmartinez@schultz-miller.org,2022-01-16,unknown
+17,Michael Hernandez,janetharvey@gmail.com,2022-01-17,F
+18,Timothy Frederick,portermatthew@hotmail.com,2022-01-18,Male
+19,Lisa Harrison,nicholasramirez@watts.biz,2022-01-19,Female
+20,Amy Ochoa,matthewwheeler@yahoo.com,2022-01-20,Female
+21,Melanie Ibarra,donald20@riley-williams.biz,2022-01-21,MALE
+22,Dr. Stacy Underwood MD,sara94@rodriguez.com,2022-01-22,F
+23,John Wall,qcollins@smith.com,2022-01-23,female
+24,Rick Taylor,kjohnson@hebert-mitchell.com,2022-01-24,FEMALE
+25,Lisa Fitzgerald,tbryant@roberts.com,2022-01-25,MALE
+26,Jacqueline Garcia,stephaniereyes@yahoo.com,2022-01-26,FEMALE
+27,Rachel White,williamsmary@yahoo.com,2022-01-27,male
+28,Christopher Tran,charlesjeremy@gmail.com,2022-01-28,f
+29,Melanie Mitchell,kholloway@brown.net,2022-01-29,M
+30,Keith Davis,anthony75@hotmail.com,2022-01-30,f
+31,Juan Martinez,erica35@lewis-clark.com,2022-01-31,female
+32,Brian Wong,jeanne20@salinas-bennett.org,2022-02-01,M
+33,James Johnson,qross@mendoza.info,2022-02-02,m
+34,John Henry,billybruce@martinez.info,2022-02-03,f
+35,Miss Anna Atkinson,pamela94@hotmail.com,2022-02-04,MALE
+36,Robert Taylor,joyhood@murillo-johnson.com,2022-02-05,F
+37,Ashley Berry,pjackson@yahoo.com,2022-02-06,f
+38,Michael George,dgay@gmail.com,2022-02-07,f
+39,Drew Williams,schultzmichael@arellano.com,2022-02-08,f
+40,Steven Mooney,jerrymoore@hunter-mills.org,2022-02-09,Female
+41,Elizabeth Pineda,croberts@warner.net,2022-02-10,M
+42,Benjamin Smith,sbaker@gmail.com,2022-02-11,F
+43,Gloria White,wattskimberly@daniel.com,2022-02-12,FEMALE
+44,Charles Adams,richardsonjohn@jones.com,2022-02-13,FEMALE
+45,Kevin Finley,cmiles@rivera.net,2022-02-14,M
+46,Theresa Taylor,karenolson@yahoo.com,2022-02-15,unknown
+47,Michael Briggs,belinda40@yahoo.com,2022-02-16,male
+48,Leslie Marsh,sethellis@yahoo.com,2022-02-17,Female
+49,Jasmine Gonzalez,zacharybrady@yahoo.com,2022-02-18,f
+50,Peter Riley,jwoods@yahoo.com,2022-02-19,
+51,Jennifer Moran,johnsonkatie@charles-campbell.com,2022-02-20,m
+52,Savannah Schaefer,james43@barron.com,2022-02-21,Female
+53,James Bruce,belldaniel@johnson.net,2022-02-22,m
+54,Caitlin Anderson,bsullivan@lee.info,2022-02-23,M
+55,Shawna Jones,kimsmith@gomez-riley.org,2022-02-24,M
+56,Alvin Bass,owengail@hickman.com,2022-02-25,male
+57,Kathleen Johnson,rkrause@owens.com,2022-02-26,female
+58,Barbara Simmons,friedmanjennifer@yahoo.com,2022-02-27,female
+59,Daniel Bautista,ryansawyer@yahoo.com,2022-02-28,Male
+60,Renee Gutierrez,hernandezamy@matthews.net,2022-03-01,MALE
+61,Matthew Bush,kliu@gmail.com,2022-03-02,male
+62,Curtis Nelson,abigailbarber@fowler-reed.com,2022-03-03,F
+63,Virginia Ward MD,joy26@gmail.com,2022-03-04,male
+64,David Montgomery,wilsonmegan@little.net,2022-03-05,FEMALE
+65,Madison Mitchell,terricarpenter@yahoo.com,2022-03-06,unknown
+66,Holly Wright,megangriffin@yahoo.com,2022-03-07,unknown
+67,William Johnson,sandragonzalez@gmail.com,2022-03-08,MALE
+68,Rhonda Mcdonald,parkerkaren@lee.org,2022-03-09,F
+69,Ann Hart,michelle25@yahoo.com,2022-03-10,F
+70,Andrea Martin,udavis@campbell-hurst.com,2022-03-11,Female
+71,Jay Hicks,hillmonica@martinez.com,2022-03-12,FEMALE
+72,Greg Kirk,wanderson@combs.net,2022-03-13,FEMALE
+73,Christian Stewart,sbutler@yahoo.com,2022-03-14,f
+74,Benjamin Moore,russell71@gmail.com,2022-03-15,Male
+75,Neil Gutierrez,patrick95@turner-johnson.com,2022-03-16,Female
+76,Shelley Houston,stephaniegarcia@gmail.com,2022-03-17,
+77,Jessica Rivera,michael33@yahoo.com,2022-03-18,m
+78,Christopher Smith,avasquez@hendricks.com,2022-03-19,
+79,Mrs. Ashley Powell,hwiley@hotmail.com,2022-03-20,M
+80,Andrew Zuniga,gturner@owens.org,2022-03-21,f
+81,Mr. Anthony Hudson,brittany77@brown-ross.com,2022-03-22,female
+82,Tina Herring,raymondsmith@gmail.com,2022-03-23,FEMALE
+83,Jenna Torres DVM,gibsoncindy@hotmail.com,2022-03-24,unknown
+84,Jennifer Wilson,renee28@hotmail.com,2022-03-25,male
+85,Marvin Alexander,carrie80@hotmail.com,2022-03-26,
+86,Jeffrey Pratt,bethany18@gmail.com,2022-03-27,male
+87,Nathan Simpson,guerreromadeline@yahoo.com,2022-03-28,Male
+88,Janet Bowman,asmith@haynes-sullivan.com,2022-03-29,male
+89,Connie Horne,bruce65@salazar-coleman.com,2022-03-30,male
+90,Joshua Williams,danielle44@hotmail.com,2022-03-31,f
+91,Mary Welch,john65@taylor.com,2022-04-01,male
+92,Jeremy Cooley,smithrachel@smith.com,2022-04-02,male
+93,Bradley Martinez,carriemann@hooper.net,2022-04-03,MALE
+94,Patrick Woods,lisalarson@gmail.com,2022-04-04,male
+95,Johnathan Miranda,debra32@yahoo.com,2022-04-05,f
+96,Karen Little,walkerrobin@hotmail.com,2022-04-06,unknown
+97,Heather Jarvis,brianna29@yahoo.com,2022-04-07,Female
+98,Rachel Lawrence,codyhoward@acevedo-jones.com,2022-04-08,female
+99,Linda Smith,ericolson@parker.com,2022-04-09,female
+100,Ms. Monica Daniels,mwilson@yahoo.com,2022-04-10,M

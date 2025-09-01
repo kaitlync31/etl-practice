@@ -1,0 +1,101 @@
+customer_id,name,email,signup_date,gender
+1,Daniel White,john.black@Example.Com  ,2023-04-01,M
+2,Caitlin Nash,bob_clark@example. COM,2024-09-03,F
+3,Cindy George,nina.brown@Example.Com  ,Dec 15 2022,m
+4,Jessica Williams,john   @example.com,07/10/2024,male
+5,Andrea Brown,mike.brown@example. com,25/06/2024,m
+6,Shelly Nelson, alicejohnson@EXAMPLE.COM ,,M
+7,Gregory Cabrera II,eve   @example.com,,f
+8,Brittany Cook,nina.white@Example.Com  ,2024-03-27,m
+9,Kimberly Esparza, laura.white@Example.com ,04/07/2023,unknown
+10,Daniel Casey, nina.adams@Example.com ,bad-date,M
+11,Ebony Morgan,jane_king@example. COM,19/08/2024,Female
+12,Katherine Johnson,mike   @example.com,bad-date,female
+13,Brady Meyer,tom.white@example. com,2023-08-27,FEMALE
+14,Thomas Duffy,eve.johnson@example. com,30/07/2023,M
+15,Larry Campbell,laura.king@Example.Com  ,Dec 12 2023,unknown
+16,Julie Conner,nina_johnson@example. COM,"August 21, 2022",m
+17,Rachel Perez,alice   @example.com,2025-07-11,
+18,Marcus Ramirez,eve.smith@example. com,"August 21, 2024",unknown
+19,Maria Ware,nina.lee@example. com,bad-date,Female
+20,Aaron Vargas, mikeking@EXAMPLE.COM ,,
+21,Patricia Hodges, bob.smith@Example.com ,2025-03-24,m
+22,Karen Reed,nina.smith@example. com,01/13/2024,FEMALE
+23,Natasha Bond, jane.white@Example.com ,"September 13, 2022",m
+24,Bryan Hernandez, lauraking@EXAMPLE.COM ,2023-02-07,f
+25,Heather Miller, alice.adams@Example.com ,23/06/2024,
+26,Joel Melton, bob.black@Example.com ,"August 31, 2024",f
+27,Kimberly Harvey, jane.lee@Example.com ,bad-date,m
+28,Tyler Willis,bob.lee@example. com,"May 25, 2023",f
+29,Eric Jackson,nina.king@example. com,"September 18, 2023",male
+30,Kathy Espinoza,tom_clark@example. COM,,F
+31,Edward Fischer, sara.lee@Example.com ,2023-04-28,m
+32,Theresa Crane,jane_brown@example. COM,30/03/2023,
+33,Brian Zimmerman,mike.clark@example. com,10/03/2023,FEMALE
+34,Thomas Li, tomblack@EXAMPLE.COM ,09/04/2024,unknown
+35,Dana Lopez,alice.adams@example. com,2023-07-24,F
+36,Tammy Duncan, bobblack@EXAMPLE.COM ,08/10/2024,male
+37,Alicia Thomas,jane   @example.com,May 18 2024,unknown
+38,Kathryn Meyers,nina.black@Example.Com  ,"April 25, 2025",Male
+39,Karen Morris,mike.doe@Example.Com  ,,
+40,Jennifer Morris, mikeblack@EXAMPLE.COM ,"May 08, 2025",MALE
+41,Rebecca Taylor, johnwhite@EXAMPLE.COM ,09/12/2024,
+42,Micheal Taylor, johnblack@EXAMPLE.COM ,Apr 05 2023,m
+43,Donald Owens,alice.clark@example. com,01/01/2023,f
+44,Dawn Smith, bob.king@Example.com ,2025-07-24,M
+45,Michael Jenkins,alice.johnson@example. com,2023-12-28,M
+46,Jason Weeks,jane   @example.com,Jul 27 2023,Male
+47,Christian Goodman,sara_smith@example. COM,bad-date,M
+48,Jasmine Shields,bob.lee@Example.Com  ,bad-date,Male
+49,Kimberly Matthews,eve_adams@example. COM,,f
+50,Darin Henson,jane.brown@Example.Com  ,2024-04-15,unknown
+51,Joshua Gilmore,sara   @example.com,Jan 09 2025,f
+52,Eugene Warren,tom   @example.com,18/07/2023,MALE
+53,Jonathan Reed,jane_smith@example. COM,Nov 07 2023,MALE
+54,Miss Michelle Reyes,john.black@example. com,02/03/2024,MALE
+55,Carrie Johnson,bob.lee@example. com,04/30/2023,m
+56,Stacy Schneider,laura.lee@Example.Com  ,09/25/2022,f
+57,Emily Caldwell,nina.black@example. com,2024-01-31,m
+58,Denise Hunter,mike.johnson@Example.Com  ,30/10/2022,
+59,Vicki Brady, john.brown@Example.com ,06/06/2024,M
+60,Gavin Reeves,bob.black@Example.Com  ,10/07/2024,MALE
+61,Lindsay Bauer,sara.king@example. com,01/10/2023,MALE
+62,Stacy Wright, johnlee@EXAMPLE.COM ,"December 14, 2023",f
+63,Jorge Glenn,eve.brown@example. com,,MALE
+64,Tamara Ross,bob.adams@example. com,"January 10, 2023",unknown
+65,Haley Reed, aliceblack@EXAMPLE.COM ,,m
+66,Joseph Hernandez, johnjohnson@EXAMPLE.COM ,10/03/2024,MALE
+67,Nathan Murphy,laura   @example.com,"July 10, 2024",male
+68,Troy Schultz,john.smith@Example.Com  ,2022-08-08,f
+69,Ronald Wagner, tomlee@EXAMPLE.COM ,,M
+70,Christopher Lowery,sara_smith@example. COM,"April 23, 2025",male
+71,Johnathan Young, eveking@EXAMPLE.COM ,bad-date,f
+72,Stacey Park, john.king@Example.com ,Feb 07 2025,
+73,John Irwin,john.lee@Example.Com  ,24/03/2023,Male
+74,Jason Wong,jane   @example.com,06/04/2025,FEMALE
+75,Sabrina Davis,eve_black@example. COM,Oct 01 2024,
+76,John Brooks,bob.adams@example. com,"August 16, 2024",MALE
+77,Julie Gomez,nina.brown@example. com,Jan 11 2024,M
+78,Lisa Wood, ninalee@EXAMPLE.COM ,,MALE
+79,Christy Lawson,sara.black@Example.Com  ,May 10 2023,female
+80,Matthew Harper,sara.adams@Example.Com  ,Feb 18 2023,FEMALE
+81,Robert Harris, jane.adams@Example.com ,"April 17, 2023",M
+82,Lisa Tucker,eve_white@example. COM,Dec 11 2024,FEMALE
+83,Brian Mejia,sara   @example.com,Nov 21 2024,Male
+84,Madison Henderson,eve.clark@Example.Com  ,Mar 25 2025,female
+85,Sara Cook, laura.doe@Example.com ,2023-05-17,f
+86,Nathaniel Kelley,eve_smith@example. COM,,F
+87,Brian Wright, mikelee@EXAMPLE.COM ,Jun 01 2024,MALE
+88,Charles Bowen, tom.king@Example.com ,"August 01, 2024",M
+89,Gina Simmons, bob.clark@Example.com ,12/02/2023,male
+90,Michael Frazier,bob   @example.com,bad-date,
+91,Jennifer Walters,mike.clark@Example.Com  ,bad-date,
+92,Heather Mcdonald,alice   @example.com,bad-date,FEMALE
+93,Bradley Macias,mike.johnson@example. com,2025-05-11,Male
+94,Heidi Thomas,laura.adams@example. com,10/01/2024,female
+95,Sarah Roberson,john_johnson@example. COM,bad-date,Female
+96,Lisa Pitts, aliceadams@EXAMPLE.COM ,21/08/2023,MALE
+97,Randy Harrington, jane.clark@Example.com ,"January 07, 2024",MALE
+98,Carrie Davis,tom.johnson@Example.Com  ,2025-01-18,FEMALE
+99,Amanda Fowler,alice.doe@example. com,bad-date,m
+100,Ashley Edwards,mike_black@example. COM,,MALE
